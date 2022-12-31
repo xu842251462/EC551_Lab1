@@ -47,7 +47,7 @@ module display(
 	output wire [ 3:0] seg7_digit_sel,
 	output wire [ 7:0] seg7_led_on,
 
-	input  wire [15:0] r0,
+	input  wire [15:0] r0, //from cpu regfile data bus
 	input  wire [15:0] r1,
 	input  wire [15:0] r2,
 	input  wire [15:0] r3,
