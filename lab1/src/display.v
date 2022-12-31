@@ -107,6 +107,7 @@ module display(
 	assign register_h = register_disp_counter[1:0] + 3;
 	assign register_v = register_disp_counter[4:2];
 	
+	//every reg num is 16 bits, 4 hex are showed in the monitor. total 28 for 6 registers 
 	always @(*) begin
 		case (register_disp_counter)
 			 0: register_hex = r0[15:12];
