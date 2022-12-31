@@ -40,8 +40,8 @@
 
 
 module display(
-	input  wire [10:0] vga_h_ctr,
-	input  wire [10:0] vga_v_ctr,
+	input  wire [10:0] vga_h_ctr, //from vgacontrol counter
+	input  wire [10:0] vga_v_ctr, //from vgacontrol counter
 	output wire 	   vga_pixel_on,
 
 	output wire [ 3:0] seg7_digit_sel,
