@@ -1,3 +1,10 @@
 # ec551_lab1
 
-Using arm ISA, connecting to VGA 
+CPU part: </br>
+
+Using arm instruction</br>
+
+
+VGA part: </br>
+
+Using
