@@ -1,10 +1,10 @@
 # ec551_lab1
 
-CPU part: </br>
+CPU part: </br> 
 
-Using arm instruction</br>
+Using arm instruction, including decoder, memory, register, PC counter</br>
 
 
 VGA part: </br>
 
-Using
+Using VGA controller, pre_stored char which will be loaded to 
