@@ -16,3 +16,5 @@ Using VGA controller, pre_stored char which will be loaded to vchar_set.v</br>
 set register display counter
 
 ![alt text](https://github.com/xu842251462/ec551_lab1/blob/main/lab1/Screen%20Shot%202023-01-24%20at%207.42.46%20PM.png)</br>
+
+<img width="614" alt="image" src="https://user-images.githubusercontent.com/39841029/214455277-a3c12a2e-5c7e-4d56-a42e-1b9a0ed0afa0.png">
