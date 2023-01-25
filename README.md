@@ -4,7 +4,15 @@ CPU part: </br>
 
 Using arm instruction, including decoder, memory, register, PC counter</br>
 
+https://github.com/xu842251462/ec551_lab1/blob/main/lab1/src/decoder.v</br>
+
 
 VGA part: </br>
 
-Using VGA controller, pre_stored char which will be loaded to 
+Using VGA controller, pre_stored char which will be loaded to vchar_set.v</br>
+
+![alt text](https://github.com/xu842251462/ec551_lab1/blob/main/lab1/Screen%20Shot%202023-01-24%20at%206.18.06%20PM.png)</br>
+
+set register display counter
+
+![alt text](https://github.com/xu842251462/ec551_lab1/blob/main/lab1/Screen%20Shot%202023-01-24%20at%207.42.46%20PM.png)</br>
