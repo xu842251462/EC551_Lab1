@@ -4,7 +4,9 @@ CPU part: </br>
 
 Using arm instruction, including decoder, memory, register, PC counter</br>
 
-https://github.com/xu842251462/ec551_lab1/blob/main/lab1/src/decoder.v</br>
+Below is the sample machine code used in the project, they are atored in the memory.list.</br>
+
+<img width="175" alt="image" src="https://user-images.githubusercontent.com/39841029/214456153-b6b2f80b-38ec-422b-9aa0-cf1eed691d2c.png">
 
 
 VGA part: </br>
