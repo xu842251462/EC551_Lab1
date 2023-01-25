@@ -11,11 +11,11 @@ VGA part: </br>
 
 Using VGA controller, pre_stored char which will be loaded to vchar_set.v</br>
 
-![alt text](https://github.com/xu842251462/ec551_lab1/blob/main/lab1/Screen%20Shot%202023-01-24%20at%206.18.06%20PM.png)</br>
+<img width="525" alt="image" src="https://user-images.githubusercontent.com/39841029/214455986-5b724f2a-8cae-4f99-9358-3c995c09b27a.png">
 
 set register display counter
 
-![alt text](https://github.com/xu842251462/ec551_lab1/blob/main/lab1/Screen%20Shot%202023-01-24%20at%207.42.46%20PM.png)</br>
+<img width="525" alt="image" src="https://user-images.githubusercontent.com/39841029/214456066-a810e3df-78eb-40ad-8cad-a381ac7344a5.png">
 
 <img width="614" alt="image" src="https://user-images.githubusercontent.com/39841029/214455277-a3c12a2e-5c7e-4d56-a42e-1b9a0ed0afa0.png">
 
