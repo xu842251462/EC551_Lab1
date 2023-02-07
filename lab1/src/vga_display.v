@@ -23,7 +23,7 @@
 module vga_display(
     input  wire [ 7:0] w_h_addr,
 	input  wire [ 7:0] w_v_addr,
-	input  wire [ 5:0] w_data,
+	input  wire [ 5:0] w_data, //input character from every register character
 	input  wire        w_en,
 
 	input  wire [10:0] h_ctr,
