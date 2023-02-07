@@ -87,7 +87,7 @@ module display(
 	vga_display vd(
 		.w_h_addr(term_h),
 		.w_v_addr(term_v),
-		.w_data(term_char),
+		.w_data(term_char), //EXAMPLE: 1, 2, 3, 4 ,5 ,6, A, B, C, D
 		.w_en(term_w_en),
 
 		.h_ctr(vga_h_ctr),
