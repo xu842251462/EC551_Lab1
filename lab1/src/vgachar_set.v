@@ -66,8 +66,8 @@ module vgachar_set(
 	input  wire       clk,
 	input  wire       rst
 );
-	reg  [7:0] char_img [(8*64)-1:0];
-	wire [7:0] char_cur [7:0];
+	reg  [7:0] char_img [(8*64)-1:0]; //
+	wire [7:0] char_cur [7:0]; //8 * 8 array on terminal
 	wire [8:0] char_addr;
 
 	assign char_addr = {charsel, 3'b000};
