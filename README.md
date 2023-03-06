@@ -23,4 +23,4 @@ set register display counter</br>
 
 <img width="801" alt="image" src="https://user-images.githubusercontent.com/39841029/214455877-92215769-d815-4666-9985-7bd2276f6082.png"></br>
 
-<img width="969" alt="image" src="https://user-images.githubusercontent.com/39841029/223233912-7cd8e167-683a-4767-84f6-c38a255a60fb.png"></br>
+<img width="969" alt="image" src="https://user-images.githubusercontent.com/39841029/223235033-ba287f7c-02b5-45ff-91b8-4dcbe57b6450.png"></br>
