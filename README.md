@@ -13,13 +13,14 @@ VGA part: </br>
 
 Using VGA controller, pre_stored char which will be loaded to vchar_set.v</br>
 
-<img width="525" alt="image" src="https://user-images.githubusercontent.com/39841029/214455986-5b724f2a-8cae-4f99-9358-3c995c09b27a.png">
+<img width="525" alt="image" src="https://user-images.githubusercontent.com/39841029/214455986-5b724f2a-8cae-4f99-9358-3c995c09b27a.png"></br>
 
-set register display counter
+set register display counter</br>
 
-<img width="525" alt="image" src="https://user-images.githubusercontent.com/39841029/214456066-a810e3df-78eb-40ad-8cad-a381ac7344a5.png">
+<img width="525" alt="image" src="https://user-images.githubusercontent.com/39841029/214456066-a810e3df-78eb-40ad-8cad-a381ac7344a5.png"></br>
 
-<img width="614" alt="image" src="https://user-images.githubusercontent.com/39841029/214455277-a3c12a2e-5c7e-4d56-a42e-1b9a0ed0afa0.png">
+<img width="614" alt="image" src="https://user-images.githubusercontent.com/39841029/214455277-a3c12a2e-5c7e-4d56-a42e-1b9a0ed0afa0.png"></br>
 
-<img width="801" alt="image" src="https://user-images.githubusercontent.com/39841029/214455877-92215769-d815-4666-9985-7bd2276f6082.png">
+<img width="801" alt="image" src="https://user-images.githubusercontent.com/39841029/214455877-92215769-d815-4666-9985-7bd2276f6082.png"></br>
 
+<img width="969" alt="image" src="https://user-images.githubusercontent.com/39841029/223233912-7cd8e167-683a-4767-84f6-c38a255a60fb.png"></br>
